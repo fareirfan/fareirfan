@@ -46,7 +46,7 @@ Designed and built the **first-ever attendance tracking system** for the one of 
 
 I come from a Mechanical Engineering background, which gave me a strong foundation in problem-solving, process thinking, and working with systems — skills that translate naturally into data analytics.
 
-During my apprenticeship in the semiconductor industry, I discovered a passion for building data solutions that solve real operational problems. I enjoy the full pipeline: from messy raw data all the way to a clean dashboard that helps people make better decisions.
+During my apprenticeship program in the semiconductor industry, I discovered a passion for building data solutions that solve real operational problems. I enjoy the full pipeline: from messy raw data all the way to a clean dashboard that helps people make better decisions.
 
 I'm currently looking for **entry-level Data Analyst opportunities** where I can grow my skills in SQL and Python while continuing to deliver business value through data.
 
@@ -55,7 +55,7 @@ I'm currently looking for **entry-level Data Analyst opportunities** where I can
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fariezeirfan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fariezeirfan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fareirfan)
 
 ---
 
