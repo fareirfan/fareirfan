@@ -3,7 +3,9 @@
 🎓 **Mechanical Engineering graduate from Universiti Teknologi Malaysia (UTM)**
 
 📊 **Aspiring Data Analyst** — turning raw operational data into decisions that matter
+
 🏭 Experienced in manufacturing & semiconductor environments
+
 📍 Based in Malaysia
 
 ---
