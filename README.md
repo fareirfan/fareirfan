@@ -23,7 +23,7 @@
 ## 🚀 Featured Projects
 
 ### 🏭 [Machine Output Power BI Dashboard](https://github.com/fareirfan/machine-output-powerbi-dashboard)
-> Semiconductor / Electronics Manufacturing
+> Celestica Electronics (M) Sdn Bhd
 
 Built an end-to-end automated data pipeline that replaced **2+ hours of daily manual reporting** with a real-time analytics dashboard. Achieved **97% data accuracy** serving 35+ stakeholders across process engineers, production engineers, and upper management.
 
@@ -33,7 +33,7 @@ Built an end-to-end automated data pipeline that replaced **2+ hours of daily ma
 ---
 
 ### 👥 [Employee Attendance Power BI Dashboard](https://github.com/fareirfan/employee-attendance-powerbi-dashboard)
-> Workforce Analytics / HR Analytics
+> Celestica Electronics (M) Sdn Bhd
 
 Designed and built the **first-ever attendance tracking system** for the one of the department. Transformed raw access card swipe logs into actionable insights on shift attendance, overtime, absences, and headcount — enabling data-driven resource planning.
 
